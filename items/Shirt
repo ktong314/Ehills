@@ -1,0 +1,8 @@
+{
+  "name": "Shirt",
+  "minBid": "0.50",
+  "buyOut": "25",
+  "description": "vintage t-shirt",
+  "highestBidder": "n/a",
+  "currentPrice": "0"
+}
